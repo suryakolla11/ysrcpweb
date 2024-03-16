@@ -1,0 +1,66 @@
+/* Title Section */
+
+#title .container-fluid{
+  padding: 3% 15% 7%;
+  text-align: left;
+  text-height:60px;
+  color:white;
+  background-color: blue;
+}
+#navarathnalu{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: green;
+  h2{
+    color:orange;
+  }
+}
+.scheme-img{
+  width: 190px;
+  padding:5px;
+  border-radius: 100%;
+}
+p{
+  color:white;
+}
+h2 {
+  color:white;
+}
+#testimonals{
+  padding: 100px;
+
+}
+.nav-link{
+  color:#fff;
+  margin: 20px 10px;
+  hover-color:red;
+}
+.navbar-brand{
+  size : 80;
+  color: white;
+}
+.navbar-toggler-icon{
+  background-color: #fff;
+}
+#songs{
+  background-color: black;
+}
+#carouselExampleControls{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #41C9E2;
+  border: 50%;
+}
+.gap{
+  padding-bottom:2%;
+}
+.pad{
+  padding-bottom: 5%;
+}
+#contact{
+  padding-bottom:2%;
+  background-color: #9BCF53;
+}
+.footer-link{
+  margin: 20px 10px;
+}
